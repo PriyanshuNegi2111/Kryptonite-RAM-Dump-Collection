@@ -21,7 +21,7 @@ Before using the Kryptonite RAM Dump tool, ensure you have the following prerequ
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/cyph3rryx/kryptonite-ram-dump.git](https://github.com/cyph3rryx/Kryptonite-RAM-Dump-Collection.git
+[git clone https://github.com/cyph3rryx/kryptonite-ram-dump.git](https://github.com/cyph3rryx/Kryptonite-RAM-Dump-Collection.git
 cd kryptonite-ram-dump
 ```
 
