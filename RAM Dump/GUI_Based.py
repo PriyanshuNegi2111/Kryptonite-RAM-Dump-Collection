@@ -78,7 +78,7 @@
         load_command = [
             "sudo",
             "insmod",
-            "./lime-5.16.0-12parrot1-amd64.ko",
+            "./Kali.ko",
             f"path={current_directory}/{MD5}/{MD5}.mem",
             "format=raw",
         ]
